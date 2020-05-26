@@ -1,0 +1,23 @@
+
+body{
+	background-color: black; 
+	background-image: url("back2.png");
+}
+
+.app{
+	width: 800px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	color: white;
+	text-align: center;
+	padding: 10px; 
+}
+
+.contr{
+	width: 260px; 
+	position: absolute;
+	padding-left: 530px;
+	margin-top: -50px;  
+}
